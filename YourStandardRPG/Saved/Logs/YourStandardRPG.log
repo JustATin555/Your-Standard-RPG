@@ -816,3 +816,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.18-10.50.59:907][495]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
 [2019.11.18-10.50.59:907][495]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
 [2019.11.18-10.51.55:212][660]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C87EDB3F-4D67-AFFC-2711-CC95D520D91C}
+[2019.11.18-10.59.56:287][587]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={98279814-4A99-A37A-7B90-CC9050ABE0F8}
+[2019.11.18-10.59.56:287][587]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D84C1DBC-4AA9-FCA6-81ED-29A4D86801CC}
