@@ -10,6 +10,7 @@ Basically a random RPG that we are making.
 
 ## Installation
 > I don't necessarily think that installation is the only way to go. It's just a label for certain kinds of arrangements.
+
 There's kinda no game to install yet.
 
 ## Usage
